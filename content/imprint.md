@@ -14,6 +14,6 @@ Kohorte Mittellinie (nicht eingetragener Verein)
 * Toni K.
 * Christine M.
 
-#### inhaltlich Verantwortlicher
+#### Inhaltlich Verantwortlicher
 
 * [Marcel Schilling](mailto:admin@kohorte-mittellinie.eu)

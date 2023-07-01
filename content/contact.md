@@ -12,6 +12,6 @@ author: "Kohorte Mittellinie"
 * [vorstand@kohorte-mittellinie.eu](mailto:vorstand@kohorte-mittellinie.eu)
 
 
-#### inhaltlich Verantwortlicher
+#### Inhaltlich Verantwortlicher
 
 * [Marcel Schilling \<admin@kohorte-mittellinie.eu\>](mailto:admin@kohorte-mittellinie.eu)
