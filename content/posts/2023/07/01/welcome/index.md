@@ -9,5 +9,5 @@ author: "Kohorte Mittellinie"
 Auf dieser Internetseite möchten wir, der Union-Fanclub Kohorte Mittellinie,
 uns dem geneigten Interessenten und auch allen anderen Unionern vorstellen.
 
-Die Seite befindet sich noch im Aufbau und wird zeitnah um mehr weitere Inhalte
-und funktionen erweitert.
+Die Seite befindet sich noch im Aufbau und wird zeitnah um weitere Inhalte und
+funktionen erweitert.
