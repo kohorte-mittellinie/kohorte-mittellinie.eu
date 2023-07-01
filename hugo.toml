@@ -36,7 +36,6 @@ theme = 'bootstrap-bp'
 
 [params]
   description = "Fanclub des 1. FC Union Berlin (nicht eingetragener Verein)"
-  images = ["/logo.jpg"]
   # showPostSummary = true
   # startPageColumns = true
   # showListsGrouped = true
