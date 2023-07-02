@@ -35,7 +35,7 @@ theme = 'bootstrap-bp'
   name = "Marcel Schilling"
 
 [params]
-  description = "Fanclub des 1. FC Union Berlin (nicht eingetragener Verein)"
+  description = "Inoffizieller Fanclub des 1. FC Union Berlin (nicht eingetragener Verein)"
   # showPostSummary = true
   # startPageColumns = true
   # showListsGrouped = true
