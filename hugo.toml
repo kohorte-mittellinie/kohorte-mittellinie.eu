@@ -32,7 +32,7 @@ theme = 'bootstrap-bp'
 #    page = "/:slug/"
 
 [Author]  
-  name = "Marcel Schilling"
+  name = "Kohorte Mittellinie"
 
 [params]
   description = "Inoffizieller Fanclub des 1. FC Union Berlin (nicht eingetragener Verein)"
