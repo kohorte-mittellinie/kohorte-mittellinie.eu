@@ -50,7 +50,7 @@ theme = 'bootstrap-bp'
 #[languages]
 #  [languages.en]
 #    languageName = "English"
-#    #title = "Kohoerte Mittellinie"
+#    #title = "Kohorte Mittellinie"
 #    weight = 2
 #    [languages.en.params]
 #  [languages.de]
