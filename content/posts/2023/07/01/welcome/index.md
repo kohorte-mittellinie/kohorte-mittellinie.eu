@@ -2,7 +2,7 @@
 title: "Willkommen"
 description: "Begrüßung"
 date: 2023-07-01
-aliase: ["willkommen", "begruessing", "welcome", "greeting"]
+aliase: ["willkommen", "begruessung", "welcome", "greeting"]
 author: "Kohorte Mittellinie"
 ---
 
