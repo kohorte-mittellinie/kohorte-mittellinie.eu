@@ -1,5 +1,5 @@
-+++
-aliases = ["posts", "articles", "blog"]
-title = "Artikel"
-author = "Kohorte Mittelline"
-+++
+---
+aliases: ["posts", "articles", "blog"]
+title: "Artikel"
+author: "Kohorte Mittelline"
+---
