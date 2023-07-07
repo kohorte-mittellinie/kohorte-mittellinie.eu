@@ -130,3 +130,7 @@ theme = 'bootstrap-bp'
 #    name = "Tags"
 #    url = "/tags/"
 #    weight = 30
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
