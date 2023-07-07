@@ -110,13 +110,13 @@ theme = 'bootstrap-bp'
   [[menu.footer]]
     identifier = "imprint"
     name = "Impressum"
-    url = "/imprint/"
+    url = "/homepage/imprint/"
     weight = 10
 
   [[menu.footer]]
     identifier = "contact"
     name = "Kontakt"
-    url = "/contact/"
+    url = "/homepage/contact/"
     weight = 20
 
 #  [[menu.footer]]
