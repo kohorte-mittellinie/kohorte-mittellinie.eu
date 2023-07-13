@@ -4,6 +4,7 @@ description: "Begrüßung"
 date: 2023-07-01
 aliases: ["willkommen", "begruessung", "welcome", "greeting"]
 author: "Kohorte Mittellinie"
+weight: 10
 ---
 
 Auf dieser Internetseite möchten wir, der Union-Fanclub Kohorte Mittellinie,
