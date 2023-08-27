@@ -1,5 +1,5 @@
 ---
-title: "1\\. ordentliche Mitgliederversammlung und Sommerfest"
+title: "Erste ordentliche Mitgliederversammlung und Sommerfest"
 description: "Bericht von der ersten ordentlichen Mitgliederversammlung mit anschließendem Sommerfest"
 date: 2023-07-07
 aliases: ["mv1"]
