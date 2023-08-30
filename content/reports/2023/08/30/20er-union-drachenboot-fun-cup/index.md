@@ -3,7 +3,7 @@ title: "Der 20. Union-Drachenboot-Fun-Cup"
 description: "Bericht von unserer ersten Teilnahem am
 Drachenboot-Fun-Cup zum 20. Jubiläum"
 date: 2023-08-30
-aliases: ["dbfc20", "udbfc20", "20dbfc", "20udbfc"]
+aliases: ["dbfc23", "udbfc23", "20dbfc", "20udbfc"]
 author: "Toni von der Kohorte Mittellinie"
 ---
 
