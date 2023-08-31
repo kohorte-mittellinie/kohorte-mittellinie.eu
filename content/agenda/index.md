@@ -2,14 +2,13 @@
 title: "Termine"
 description: "Termine rund um den Verein"
 date: 2023-07-01
-lastmod: 2023-08-30
+lastmod: 2023-08-31
 aliases: ["termine", "kalender", "agenda", "calendar"]
 author: "Kohorte Mittellinie"
 ---
 
 ## Anstehende Termine
 
-* 31.08.2023 18:00 Uhr - [UEFA Champions League Gruppen-Auslosung][uefa_cl_group_draw]
 * 05.09.2023 19:00 Uhr - FuMA-Fantreffen
 * 08.10.2023 12:00 Uhr - [Ordentliche Mitgliederversammlung des 1. FC
                          Union][mv23fcu]
@@ -37,7 +36,6 @@ author: "Kohorte Mittellinie"
 
 
 
-[uefa_cl_group_draw]: https://www.uefa.com/uefachampionsleague/draws/ "CL Gruppen-Auslusung bei der UEFA (englisch)"
 [mv23fcu]: https://www.fc-union-berlin.de/de/union-live/news/verein/Ordentliche-Mitgliederversammlung-am-08-10-2023-3198l/ "News-Artikel zur MV 2023 des 1. FCU"
 [osm_regattastrecke]: https://www.openstreetmap.org/way/421306013 "OpenStreetMap-Link zur Regattastrecke Berlin-Grünau"
 [report_dbfc23]: /reports/2023/08/30/dbfc23 "Einladung zum Drachenboot-Fun-Cup 2023"
