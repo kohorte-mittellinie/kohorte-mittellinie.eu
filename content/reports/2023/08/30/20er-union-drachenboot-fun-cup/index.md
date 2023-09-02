@@ -16,7 +16,7 @@ letztlichen Veranstaltungsdatum.
 Da wir schon bei der letzten Mitgliederveranstaltung festgestellt
 hatten, dass wir bei der nächsten Ausführung dieses Drachenbootrennens
 unter Unionern dabei sein wollen, wurde Kontakt mit den Veranstaltern,
-dem V.I.R.U.S. e.V., aufgenommen.
+dem [V.I.R.U.S. e.V.][virus], aufgenommen.
 Trotz der schon längst abgelaufenen Frist kam die erhoffte Nachricht.
 Die Kohorte Mittellinie darf kurzfristig mit einem eigenen Team
 teilnehmen.
