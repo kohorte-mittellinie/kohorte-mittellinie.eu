@@ -2,7 +2,7 @@
 title: "Termine"
 description: "Termine rund um den Verein"
 date: 2023-07-01
-lastmod: 2023-09-02
+lastmod: 2023-09-04
 aliases: ["termine", "kalender", "agenda", "calendar"]
 author: "Marcel Schilling"
 ---
@@ -16,7 +16,6 @@ author: "Marcel Schilling"
 
 ## Kommende Spieltage
 
-* 03.09.2023 17:30 Uhr - [1. FC Union vs. RB Leipzig][fcu_rbl]
 * 16.09.2023 15:30 Uhr - [Wolfsburg vs. 1. FC Union][vfl_fcu]
 * 20.09.2023 18:45 Uhr - [Real Madrid vs. 1. FC Union][rmad_fcu]
 * 23.09.2023 15:30 Uhr - [1. FC Union vs. Hoffenheim][fcu_tsg]
@@ -58,4 +57,3 @@ author: "Marcel Schilling"
 [fcu_tsg]: https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/-1-FC-Union-Berlin-TSG-Hoffenheim-17202u/ "Spiel FCU - TSG beim 1. FCU"
 [rmad_fcu]: https://www.fc-union-berlin.de/de/union-live/news/profis/Union-startet-auswaerts-bei-Real-Madrid-20910l "News-Artikel zu den Cl Gruppenspielen beim 1. FCU"
 [vfl_fcu]: https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/VfL-Wolfsburg-1-FC-Union-Berlin--17201g/ "Spiel VfL - FCU beim 1. FCU"
-[fcu_rbl]: https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/-1-FC-Union-Berlin-RB-Leipzig-17184J/ "Spiel FCU - RB beim 1. FCU"
