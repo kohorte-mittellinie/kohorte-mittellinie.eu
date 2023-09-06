@@ -2,14 +2,13 @@
 title: "Termine"
 description: "Termine rund um den Verein"
 date: 2023-07-01
-lastmod: 2023-09-04
+lastmod: 2023-09-06
 aliases: ["termine", "kalender", "agenda", "calendar"]
 author: "Marcel Schilling"
 ---
 
 ## Anstehende Termine
 
-* 05.09.2023 19:00 Uhr - FuMA-Fantreffen
 * 08.10.2023 12:00 Uhr - [Ordentliche Mitgliederversammlung des 1. FC
                          Union][mv23fcu]
 
@@ -32,6 +31,7 @@ author: "Marcel Schilling"
 
 ## Vergangene Termine
 
+* 05.09.2023 19:00 Uhr - FuMA-Fantreffen
 * 27.08.2023 09:00 Uhr - [Drachenboot-Fun-Cup][report_dbfc23]
                          ([Regattastrecke
                          Berlin-Grünau][osm_regattastrecke])
