@@ -38,6 +38,7 @@ author: "Marcel Schilling"
 * 23.08.2023 18:20 Uhr - [Drachenboot-Training][report_dbfc23]
 * 01.07.2023 17:00 Uhr - [1. ordentliche Mitgliederversammlung und
                          Sommerfest][report_mv1]
+* 07.02.2023 18:30 Uhr - Gründungsversammlung
 
 
 
